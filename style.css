@@ -1,0 +1,25 @@
+.body_show {
+    background-color: rgb(0, 0, 0);
+}
+#sagar_gupta_art {
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin: 20px;
+}
+.Planets {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+#a {
+    font-size: 50px;
+}
+#h1 {
+    color: rgb(117, 110, 110);
+    font-size: 50px;
+    margin: 20px;
+}
+.div {
+    margin: 20px;
+}
